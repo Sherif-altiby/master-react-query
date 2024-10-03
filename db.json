@@ -20,5 +20,83 @@
       "title": "post title 4",
       "desc": "post description 4"
     }
+  ],
+  "fruites": [
+    {
+      "id": 1,
+      "name": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "Bannana"
+    },
+    {
+      "id": 3,
+      "name": "Orange"
+    },
+    {
+      "id": 4,
+      "name": "Mango"
+    },
+    {
+      "id": 5,
+      "name": "Srrawberry"
+    },
+    {
+      "id": 6,
+      "name": "Blueberry"
+    },
+    {
+      "id": 7,
+      "name": "Cherry"
+    },
+    {
+      "id": 8,
+      "name": "Peach"
+    },
+    {
+      "id": 9,
+      "name": "Plum"
+    },
+    {
+      "id": 10,
+      "name": "Kiwi"
+    },
+    {
+      "id": 11,
+      "name": "Papaya"
+    },
+    {
+      "id": 12,
+      "name": "Lemon"
+    },
+    {
+      "id": 13,
+      "name": "Coconut"
+    },
+    {
+      "id": 14,
+      "name": "Pear"
+    },
+    {
+      "id": 15,
+      "name": "Guave"
+    },
+    {
+      "id": 16,
+      "name": "Lychee"
+    },
+    {
+      "id": 17,
+      "name": "Pineaple"
+    },
+    {
+      "id": 18,
+      "name": "Grapes"
+    },
+    {
+      "id": 19,
+      "name": "Watermelon"
+    }
   ]
 }
