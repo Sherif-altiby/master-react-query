@@ -41,3 +41,27 @@ a {
   background-color: #191919;
   margin-bottom: 20px;
 }
+
+form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+form input {
+  border: none;
+  outline: none;
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+form button {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+}
